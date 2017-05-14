@@ -14,5 +14,6 @@ Mit Englisch habe ich kein Problem, jedoch gibt es oftmals wenig Unterlagen auf 
 * [Linkübersicht](links.md)
 
 ## Meine Reise
-* [Tag 0 - wo fange ich an](/tage/0.md)
+* [Tag 0 - Wo fange ich an...](/tage/0.md)
 * [Tag 1 - Vorbereitungsarbeiten und erste Programmierversuche](/tage/1.md)
+* [Tag 2 - Python vs. JavaScript](/tage/2.md)
