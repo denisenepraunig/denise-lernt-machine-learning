@@ -12,4 +12,4 @@ Mit Englisch habe ich kein Problem, jedoch gibt es oftmals wenig Unterlagen auf 
 
 ## Meine Reise
 * [Tag 0 - wo fange ich an](/tage/0.md)
-* Tag 1 - Vorbereitungsarbeiten und erste Programmierversuche
+* [Tag 1 - Vorbereitungsarbeiten und erste Programmierversuche](/tage/1.md)
