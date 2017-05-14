@@ -6,5 +6,9 @@ Hauptberuflich bin ich Softwareentwickler (Swift, JavaScript), jedoch möchte ic
 
 Mit Englisch habe ich kein Problem, jedoch gibt es oftmals wenig Unterlagen auf Deutsch, deshalb habe ich mich bewusst entschieden hier auf Deutsch zu schreiben. Nach langem Suchen habe ich glaube ich ein passendes Buch gefunden: [Data Science from Scratch](http://amzn.to/2qFunSd) und werde mich diesem Buch in die Thematik einarbeiten.
 
+![alt Data Science From Scratch Cover](/bilder/data-science-from-scratch-book-cover.png)
+
+[Data Science from Scratch](http://amzn.to/2qFunSd)
+
 * Tag 0 - wo fange ich an
 * Tag 1 - Vorbereitungsarbeiten und erste Programmierversuche
