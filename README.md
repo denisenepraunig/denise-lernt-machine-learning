@@ -11,5 +11,5 @@ Mit Englisch habe ich kein Problem, jedoch gibt es oftmals wenig Unterlagen auf 
 [Data Science from Scratch](http://amzn.to/2qFunSd)
 
 ## Meine Reise
-* Tag 0 - wo fange ich an
+* [Tag 0 - wo fange ich an](/tage/0.md)
 * Tag 1 - Vorbereitungsarbeiten und erste Programmierversuche
